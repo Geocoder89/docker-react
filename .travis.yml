@@ -7,3 +7,4 @@ before_install:
 
 script:
   - docker run geocoder89/docker-react npm run test -- --coverage
+  
